@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Diego Villalon GitHub stats](https://github-readme-stats.vercel.app/api?username=diegovillalon&show_icons=true&theme=radical)
+![Diego Villalon GitHub stats](https://github-readme-stats.vercel.app/api?username=diegovillalon&show_icons=true&theme=calm)
 
 
 <!--
