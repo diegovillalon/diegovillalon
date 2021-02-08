@@ -3,6 +3,11 @@
 
 ![Diego Villalon GitHub stats](https://github-readme-stats.vercel.app/api?username=diegovillalon&show_icons=true&theme=calm)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegovillalon&repo=github-readme-stats)](https://github.com/diegovillalon/github-readme-stats)
+
+
+
+
 
 <!--
 **diegovillalon/diegovillalon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
